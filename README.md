@@ -20,5 +20,7 @@ The system uses a cyclic workflow with specialized agents:
 4. **ReportWriter**: Generates professional investment reports
 5. **QualityChecker**: Validates and improves output quality
 
-## 🛠️ Deployment
+## 🛠️ Demo:
+
+![WhatsApp GIF 2025-10-04 at 17 51 10](https://github.com/user-attachments/assets/ad5715b7-f61a-439b-972e-799bd4b94ede)
 
